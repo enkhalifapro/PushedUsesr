@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "PushedUsers": {
+            "applicationId": "csporrBTKn13TGu7sH8EdJNXHOrnfiYACTmkeRoG", 
+            "masterKey": "xbbv5zWXuhV3bXPcizSRjclr7wJHB6TmmVr3tyLp"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.13"
+    }
+}
